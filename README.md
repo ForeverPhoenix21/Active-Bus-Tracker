@@ -1,2 +1,39 @@
 # Real-Time-Bus-Tracker
-The real time bus tracker exercise was created for MITxPro full stack web developer program 
+The Real-Time-Bus-Tracker exercise was created for MITxPro full stack web development program. 
+
+## Description:
+
+<p> Real-Time-Bus-Tracker is a project that animates the bus route traveling between MIT School of Technology and Harvard on Mass Ave in Massachusetts United States. Mapbox was used for this project and the data points for the bus routes were pulled from the MTA developer resources.</p> <br>
+
+<p>  Have fun manipulating the bus route by entering in your own longitude and latitude coordinates.</p>
+
+## Installation:
+
+<p> Upload the HTML file to your browser or fork and clone the project saving the files to your local hard drive. </p>   
+
+## Usage:
+
+<p> This exercise was made to demonstrate asynchronous programing techniques along with the use of map markers. </p>
+
+## Roadmap:
+
+*<p> This exercise will continually be built and improved on as I learn additional skills in Javascript. </p>*
+
+***
+
+**<p> Future updates: </p>**
+- Update code to actively track local busses in Boston
+- Add pins with discriptions to historical landmarks
+- Add pins to my favorite bars and breweries
+- Create buttons for different routes
+- Create a line trail of route performed
+
+## Support:
+
+<p> Want to share feedback or comments?</p>
+
+<p> 
+  
+  Reach me on *[Linkedin](https://www.linkedin.com/in/derek-diaz/)* or *[Twitter](https://twitter.com/home).*
+  
+</p>
