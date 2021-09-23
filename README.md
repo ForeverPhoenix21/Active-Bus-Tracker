@@ -1,7 +1,9 @@
 # Real-Time-Bus-Tracker
 The Real-Time-Bus-Tracker exercise was created for MITxPro full stack web development program. </br>
 
-<img src= "busTracker.png" width= "200" />
+<a href="https://foreverphoenix21.github.io/PacMen-Exercise/">
+  <img src="busTracker.png" alt="BusTrackerPictureLink" width="200" /> </a
+>
 
 ## Description:
 
