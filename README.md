@@ -1,4 +1,4 @@
-# Real-Time-Bus-Tracker
+# Active-Bus-Tracker
 The Real-Time-Bus-Tracker exercise was created for MITxPro full stack web development program. </br>
 
 <a href="https://foreverphoenix21.github.io/Real-Time-Bus-Tracker/">
@@ -7,7 +7,7 @@ The Real-Time-Bus-Tracker exercise was created for MITxPro full stack web develo
 
 ## Description:
 
-<p> Real-Time-Bus-Tracker is a project that animates the bus route traveling between MIT School of Technology and Harvard on Mass Ave in Massachusetts, United States. Mapbox was used for this project, and the coordinates for the bus routes were pulled from the MTA developer resources website.</p> <br>
+<p> Active-Bus-Tracker is a project that animates the bus route traveling between MIT School of Technology and Harvard on Mass Ave in Massachusetts, United States. Mapbox was used for this project, and the coordinates for the bus routes were pulled from the MTA developer resources website.</p> <br>
 
 <p>  Have fun manipulating the bus route by entering in your own longitude and latitude coordinates in the scripts.js file.</p>
 
@@ -26,7 +26,6 @@ The Real-Time-Bus-Tracker exercise was created for MITxPro full stack web develo
 ***
 
 **<p> Future updates: </p>**
-- Update code to actively track local buses in Boston
 - Add pins with discriptions to historical landmarks
 - Add pins to my favorite bars and breweries
 - Create buttons for different routes
